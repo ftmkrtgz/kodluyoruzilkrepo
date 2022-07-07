@@ -4,6 +4,7 @@ Bu repo [Kodluyoruz]() Front-End Eğitiminde oluşturduğumuz ilk repo. İçeris
 ![Kodluyoruz](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 ## Installation
 Özellikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+
 `git clone https://github.com/fatmakurtgozu/kodluyoruzilkrepo.git`
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
