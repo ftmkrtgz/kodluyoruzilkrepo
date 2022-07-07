@@ -8,6 +8,7 @@ Bu repo [Kodluyoruz]() Front-End Eğitiminde oluşturduğumuz ilk repo. İçeris
 `git clone https://github.com/fatmakurtgozu/kodluyoruzilkrepo.git`
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
 Linux için:
 
 ```
